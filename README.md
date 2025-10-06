@@ -113,7 +113,7 @@ Laravel sigue el patrón Modelo–Vista–Controlador (MVC), que organiza el có
 - **Error:** Productos aparecían en orden descendente.
   - **Solución:** Se cambió orderByDesc('id') por orderBy('id', 'asc').
 
-## Resulta Final
+## Resultado Final
 - Pantalla principal del CRUD
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f213c994-d4f4-4d9b-b1d6-65453e9c54e6" />
 - Formulario de registro
