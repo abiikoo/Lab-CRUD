@@ -119,7 +119,7 @@ Laravel sigue el patrón Modelo–Vista–Controlador (MVC), que organiza el có
 - Formulario de registro
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6b3eeb15-f942-4097-bda1-b0eebe76b7bc" />
 - Alerta SweetAlert2
-  
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/579c4abd-c05c-4cf3-9049-c2627551801c" />
 
 ## Referencias
 [1] [Documentación oficial de Laravel](https://laravel.com/docs) <br>
