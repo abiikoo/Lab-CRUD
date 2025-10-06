@@ -115,8 +115,11 @@ Laravel sigue el patrón Modelo–Vista–Controlador (MVC), que organiza el có
 
 ## Resulta Final
 - Pantalla principal del CRUD
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f213c994-d4f4-4d9b-b1d6-65453e9c54e6" />
 - Formulario de registro
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6b3eeb15-f942-4097-bda1-b0eebe76b7bc" />
 - Alerta SweetAlert2
+  
 
 ## Referencias
 [1] [Documentación oficial de Laravel](https://laravel.com/docs) <br>
