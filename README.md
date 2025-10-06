@@ -32,7 +32,13 @@ El sistema permite registrar, listar, editar y eliminar productos, con los campo
 
 ## Comandos de Instalación y Flujo de Trabajo
 
-#### 1️⃣ Crear el proyecto Laravel
+#### 1. Crear el proyecto Laravel
 ```bash
 composer create-project laravel/laravel crudlab
 cd crudlab
+
+
+
+
+
+
