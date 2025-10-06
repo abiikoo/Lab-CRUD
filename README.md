@@ -122,11 +122,11 @@ Laravel sigue el patrón Modelo–Vista–Controlador (MVC), que organiza el có
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/579c4abd-c05c-4cf3-9049-c2627551801c" />
 
 ## Referencias
-[1] [Documentación oficial de Laravel](https://laravel.com/docs) <br>
-[2] [Laravel Blade Templates] (https://laravel.com/docs/10.x/blade) <br> 
-[3] [Laravel Eloquent ORM] (https://laravel.com/docs/10.x/eloquent) <br> 
-[4] [SweetAlert2 Docs] (https://sweetalert2.github.io/) <br> 
-[5] [Laracasts - Laravel CRUD Series] (https://laracasts.com/)
+[1] [Documentación oficial de Laravel](https://laravel.com/docs)  
+[2] [Laravel Blade Templates](https://laravel.com/docs/10.x/blade)  
+[3] [Laravel Eloquent ORM](https://laravel.com/docs/10.x/eloquent)  
+[4] [SweetAlert2 Docs](https://sweetalert2.github.io/)  
+[5] [Laracasts – Laravel CRUD Series](https://laracasts.com/)  
 
 ---
 Este laboratorio ha sido desarrollado por la estudiante de la Universidad Tecnológica de Panamá:  
